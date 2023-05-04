@@ -1,6 +1,6 @@
 {
   "port": 8080,
-  "mongoUri": "mongodb://uea3nzgvvgsclvykohpx:soIYcpESzPPCpxsHIRSe@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bm5v6lvk6s3plyw?replicaSet=rs0",
+  "mongoUri": "mongodb://fastcompany_dustlineme:bcabce4c445601269b820d607406f5c940e87542@duc.h.filess.io:27017/fastcompany_dustlineme",
   "accessSecret": "super secret from backend",
   "refreshSecret": "super refresh key"
 }
